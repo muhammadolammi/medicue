@@ -8,6 +8,8 @@ from db import init_database
 from config import app
 import os
 
+import endpoints  
+
 
 
 
